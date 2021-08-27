@@ -59,9 +59,9 @@
        -   `Adam Smith's view` (the invisible hand view) is that `consumers and firms serving their own best interest will do what is best for society`. 
 		
        -   `The fundamental core of the capitalistic view` is that `consumers and firms serving their own best interests will do what ends up being best for society`.
-       -  It can lead to outcomes that aren't fair.
+       -    It can lead to outcomes that aren't fair.
 		
 		
 		
-		---
-		[Practice Problem](https://www.thoughtco.com/supply-and-demand-practice-questions-1146966)
+		
+[Practice Problem](https://www.thoughtco.com/supply-and-demand-practice-questions-1146966)
